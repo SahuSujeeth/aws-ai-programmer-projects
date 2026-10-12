@@ -6,7 +6,7 @@ Two projects from the **Future AWS AI Programmer Nanodegree** (AWS AI & ML Schol
 
 ---
 
-## 1. Dog Breed Image Classifier (`dog-breed-classifier/`)
+## 1. Dog Breed Image Classifier ([dog-breed-classifier](dog-breed-classifier/))
 
 A Python program that uses pre-trained CNN models to find out if a pet image is a dog, and which breed it is. It compares three models: **VGG**, **AlexNet** and **ResNet**.
 
@@ -35,7 +35,7 @@ The `pet_images` folder is part of the Udacity course, so it is not included her
 
 ---
 
-## 2. Movie Review Sentiment Analysis (`sentiment-analysis/`)
+## 2. Movie Review Sentiment Analysis ([sentiment-analysis](sentiment-analysis/))
 
 A small **transformer** model, written in PyTorch, that reads an IMDB movie review and says if it is positive or negative.
 
